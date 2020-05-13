@@ -1,3 +1,3 @@
 *** Variables ***
-${email_value}    stefan@gmail.com
+${email_value}    stefan@yahoo.com
 ${password_value}    password
