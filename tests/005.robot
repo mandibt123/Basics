@@ -7,8 +7,8 @@ Library           String
 *** Test Cases ***
 Keywords
     [Tags]    second
-    [Setup]    Log    Test Start
-    Log    Hello
+    [Setup]    Log       Test Start
+    Log    Helloa
     Log    ${itemsInCart}
     [Teardown]    Log    Test Finish
 
